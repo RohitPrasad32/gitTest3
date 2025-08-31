@@ -11,4 +11,5 @@ public class GitTrialApplication {
 	}
  int a = 20;
 	String s = "Hello World!";
+	int x=10000;
 }
